@@ -323,9 +323,17 @@ section a {
   }
 }
 .about {
-  width: 1200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
   padding-top: 80px;
   padding-bottom: 50px;
+}
+@media only screen and (max-width: 1100px) {
+  .about {
+    width: 1100px;
+  }
 }
 @media only screen and (max-width: 1000px) {
   .about {
@@ -334,6 +342,7 @@ section a {
 }
 @media only screen and (max-width: 800px) {
   .about {
+    flex-direction: column;
     width: 75%;
     margin-left: auto;
     margin-right: auto;
@@ -343,17 +352,40 @@ section a {
 }
 @media only screen and (max-width: 500px) {
   .about {
+    flex-direction: column;
     width: 85%;
     padding-top: 50px;
     padding-bottom: 30px;
   }
 }
+.about span {
+    flex: 1;
+}
+.aboutcolumn1 {
+  order: 1;
+  z-index: 200;
+  width: 600px;
+}
+@media only screen and (max-width: 500px) {
+  .aboutcolumn1 {
+    width: 300px;
+  }
+}
+.aboutcolumn2 {
+  order: 2;
+  z-index: 150;
+  width: 625px;
+}
+@media only screen and (max-width: 500px) {
+  .aboutcolumn2 {
+    width: 300px;
+  }
+}
 .about img {
-  width: 25%;
+  width: 55%;
   padding-top: 0px;
   padding-left: 240px;
   padding-right: 120px;
-  float: left;
 }
 @media only screen and (max-width: 800px) {
   .about img {
@@ -378,7 +410,7 @@ section a {
   }
 }
 .about p {
-  padding: 30px 100px 0px 0px;
+  padding: 30px 0px 0px 0px;
   font-size: 1.3em;
   font-weight: 300;
   color: #892823;
