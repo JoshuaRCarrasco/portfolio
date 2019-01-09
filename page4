@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    </head>
+    <div id="welcome-section">
+      <a href="index.html">
+<img id="headerimg" src="https://www.joshuacarras.co/wp-content/uploads/2018/07/JoshCarrascoLogo2-768x247.png" alt="JoshCarrasco">
+      </a>
+    </div>
+  <nav>
+    <ul id="navbar">
+      <li><a class="navlink" href="index.html#aboutme">About</a></li>
+      <li><a class="navlink" href="index.html#projects">Projects</a></li>
+      <li><a class="navlink" href="index.html#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <h1 id="pageheader">T. Rex Song Illustrations</h1>
+ <section>
+   <a href="https://www.joshuacarras.co/wp-content/uploads/2018/07/DandyWebsite.jpg" target="_blank">
+   <img src="https://www.joshuacarras.co/wp-content/uploads/2018/07/DandyWebsite.jpg" class="sectimg" id="trexpics" alt="Dandy">
+   </a>
+    <a href="https://www.joshuacarras.co/wp-content/uploads/2019/01/GuruWebsite.png" target="_blank">
+    <img src="https://www.joshuacarras.co/wp-content/uploads/2019/01/GuruWebsite.png" class="sectimg" id="trexpics" alt="Guru">
+   </a>
+   <div class="secttext">
+   <p>One of my favorite bands is T. Rex, a rock band from the 70s. I thought it would be a fun exercise to take some of their song titles and make simple illustrations based on them, as many of the titles conjure interesting images in the mind. The songs being represented here are "Dandy In The Underworld", "Metal Guru", "Planet Queen", and "Rabbit Fighter". It shouldn't be too hard to tell which is which!</p>
+
+     <p><strong>Medium: </strong>Adobe Illustrator.</p>
+   </div>
+   <a href="https://www.joshuacarras.co/wp-content/uploads/2019/01/PlanetQueenSite.png" target="_blank">
+   <img src="https://www.joshuacarras.co/wp-content/uploads/2019/01/PlanetQueenSite.png" class="sectimg" id="trexpics" alt="queen">
+     </a>
+    <a href="https://www.joshuacarras.co/wp-content/uploads/2019/01/RabbitFighterSite.png" target="_blank">
+     <img src="https://www.joshuacarras.co/wp-content/uploads/2019/01/RabbitFighterSite.png" class="sectimg" id="trexpics" alt="rabbit">
+   </a>
+  </section>
+  <footer>
+  <div id="contactheader">
+  <p>Contact Me!</p>
+  </div>
+  <div id="contact" class="contact">
+    <a href="mailto:JoshuaRCarrasco@Gmail.com" target="_blank"><img  class="contactpic" src="https://www.joshuacarras.co/wp-content/uploads/2018/12/EMailButton-2.png" alt="email">
+    </a>
+    <a href="https://twitter.com/IAmJRaff" target="_blank"><img class="contactpic" src="https://www.joshuacarras.co/wp-content/uploads/2018/12/TwitterButton-3.png" alt="Twit"></a>
+    <a href="https://www.instagram.com/thejraff/" target="_blank"><img class="contactpic" src="https://www.joshuacarras.co/wp-content/uploads/2018/12/InstaButton-2.png" alt="insta"></a>
+    <a href="https://www.behance.net/joshuarcar6241" target="_blank"><img class="contactpic" src="https://www.joshuacarras.co/wp-content/uploads/2018/12/BehanceButton-2.png" alt="behance"></a>
+  </div>
+
+  </footer>
+</html>
+
