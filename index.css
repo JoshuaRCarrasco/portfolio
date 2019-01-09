@@ -416,6 +416,7 @@ section a {
   color: #892823;
   line-height: 35px;
   text-align: left;
+  margin-right: 200px;
 }
 @media only screen and (max-width: 1000px) {
   .about p {
