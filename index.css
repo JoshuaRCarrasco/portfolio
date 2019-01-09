@@ -291,6 +291,16 @@ section a {
     width: 300px;
   }
 }
+#charillus {
+  height: 650px;
+  width: 650px;
+}
+@media only screen and (max-width: 500px){
+  #charillus {
+    height: 300px;
+    width: 300px;
+  }
+}
 .secttext {
   padding-bottom: 50px;
 }
