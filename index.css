@@ -280,7 +280,7 @@ section a {
 @media only screen and (max-width: 500px){
   #chiefmouser {
     height: 800px;
-    width: 300px;
+    width: 350px;
   }
 }
 #gigflyer {
@@ -288,7 +288,7 @@ section a {
 @media only screen and (max-width: 500px){
   #gigflyer {
     height:500px;
-    width: 300px;
+    width: 350px;
   }
 }
 #charillus {
