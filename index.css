@@ -376,6 +376,11 @@ section a {
   z-index: 150;
   width: 625px;
 }
+@media only screen and (min-width: 1400px) {
+  .aboutcolumn2 {
+    width: 700px;
+  }
+}
 @media only screen and (max-width: 500px) {
   .aboutcolumn2 {
     width: 300px;
@@ -386,6 +391,11 @@ section a {
   padding-top: 0px;
   padding-left: 240px;
   padding-right: 120px;
+}
+@media only screen and (min-width: 1400px) {
+  .about img {
+    padding-left: 300px;
+  }
 }
 @media only screen and (max-width: 800px) {
   .about img {
@@ -417,6 +427,11 @@ section a {
   line-height: 35px;
   text-align: left;
   margin-right: 200px;
+}
+@media only screen and (min-width: 1400px) {
+  .about p {
+    margin-right: 290px;
+  }
 }
 @media only screen and (max-width: 1000px) {
   .about p {
