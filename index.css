@@ -301,6 +301,10 @@ section a {
     width: 300px;
   }
 }
+#bandstar {
+  width: 954px;
+  height: 622px;
+}
 .secttext {
   padding-bottom: 50px;
 }
