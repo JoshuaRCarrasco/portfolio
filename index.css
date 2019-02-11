@@ -283,6 +283,13 @@ section a {
     width: 350px;
   }
 }
+#whiskey {}
+@media only screen and (max-width: 500px){
+  #whiskey {
+    height: 600px;
+    widthL 350px;
+  }
+}
 #gigflyer {
 }
 @media only screen and (max-width: 500px){
