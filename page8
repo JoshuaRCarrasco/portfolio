@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" type="text/css" href="index.css">
+    </head>
+    <div id="welcome-section">
+      <a href="index.html">
+<img id="headerimg" src="https://raw.githubusercontent.com/JoshuaRCarrasco/JRaff/master/JoshCarrascoLogo2.png" alt="JoshCarrasco">
+      </a>
+    </div>
+  <nav>
+    <ul id="navbar">
+      <li><a class="navlink" href="index.html#aboutme">About</a></li>
+      <li><a class="navlink" href="index.html#projects">Projects</a></li>
+      <li><a class="navlink" href="index.html#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <h1 id="pageheader">Whiskey Infographic</h1>
+ <section>
+   <a href="https://raw.githubusercontent.com/JoshuaRCarrasco/JRaff/master/whiskeyinfographic1.png" target="_blank">
+   <img src="https://raw.githubusercontent.com/JoshuaRCarrasco/JRaff/master/whiskeyinfographic1.png" class="sectimg" id="chiefmouser" alt="mouser">
+   </a>
+   <div class="secttext">
+   <p>Whiskey is a spirit deeply rooted in tradition, with several different kinds each having their own rules and even laws governing
+   how they're made. Not knowing much about the different kinds, I decided to do some research and then put my findings into this infographic.
+   I chose mostly brown colors to represent not only the color of whiskey but also the barrels used to age it and the woody, earthy flavor
+   it can often have.</p>
+
+     <p><strong>Medium: </strong>Adobe Illustrator, Photoshop.</p>
+   </div>
+   
+  </section>
+  <footer>
+  <div id="contactheader">
+  <p>Contact Me!</p>
+  </div>
+  <div id="contact" class="contact">
+    <a href="mailto:JoshuaRCarrasco@Gmail.com" target="_blank"><img  class="contactpic" src="https://raw.githubusercontent.com/JoshuaRCarrasco/JRaff/master/EMailButton.png" alt="email">
+    </a>
+    <a href="https://dribbble.com/TheJRaff" target="_blank"><img class="contactpic" src="https://raw.githubusercontent.com/JoshuaRCarrasco/JRaff/master/Dribbbleicon.png" alt="Dribbble"></a>
+    <a href="https://www.instagram.com/thejraff/" target="_blank"><img class="contactpic" src="https://raw.githubusercontent.com/JoshuaRCarrasco/JRaff/master/InstaButton.png" alt="insta"></a>
+    <a href="https://www.behance.net/joshuarcar6241" target="_blank"><img class="contactpic" src="https://raw.githubusercontent.com/JoshuaRCarrasco/JRaff/master/BehanceButton.png" alt="behance"></a>
+  </div>
+
+  </footer>
+</html>
+
