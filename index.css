@@ -284,12 +284,13 @@ section a {
   }
 }
 #whiskey {
-width: 50%;
+width: 640px;
+height: 1132px;
 }
 @media only screen and (max-width: 500px){
   #whiskey {
     height: 500px;
-    widthL 350px;
+    width: 350px;
   }
 }
 #gigflyer {
