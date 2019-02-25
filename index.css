@@ -284,6 +284,9 @@ section a {
   }
 }
 #whiskey {
+  text-align: center;
+  width: 641px;
+  height: 1132px;
 }
 @media only screen and (max-width: 500px){
   #whiskey {
