@@ -283,7 +283,10 @@ section a {
     width: 350px;
   }
 }
-#whiskey {}
+#whiskey {
+height: 50%;
+width: 50%;
+}
 @media only screen and (max-width: 500px){
   #whiskey {
     height: 500px;
