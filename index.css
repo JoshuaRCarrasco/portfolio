@@ -322,6 +322,16 @@ section a {
    height: 200px;
   }
 }
+#beerlabel {
+  width: 803px;
+  height: 482px;
+}
+@media only screen and (max-width: 500px) {
+  #beerlabel {
+    width: 300px;
+    height: 200px;
+  }
+}
 .secttext {
   padding-bottom: 50px;
 }
