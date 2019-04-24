@@ -328,7 +328,7 @@ section a {
 }
 @media only screen and (max-width: 500px) {
   .beerlabel {
-    width: 300px;
+    width: 350px;
     height: 200px;
   }
 }
