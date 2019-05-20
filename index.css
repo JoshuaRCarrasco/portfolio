@@ -327,6 +327,7 @@ section a {
   #adone {
     height: 300px;
     width: 300px;
+    max-width: 400px;
   }
 }
 #adtwo {}
@@ -334,6 +335,7 @@ section a {
   #adtwo {
     height: 200px;
     width: 300px;
+    max-width: 400px;
   }
 }
 .beerlabel {
