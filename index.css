@@ -361,7 +361,7 @@ section a {
     line-height: 20px;
     width: 300px;
     min-width: 200px;
-    padding: 0px 0px 20px 0px;
+    padding: 0px 0px 0px 0px;
     overflow: hidden;
   }
 }
@@ -496,7 +496,7 @@ section a {
     font-size: 1.1em;
     line-height: 30px;
     min-width: 200px;
-    padding-bottom: 0px;
+    padding-bottom: 20px;
     overflow: hidden;
     margin: auto;
   }
