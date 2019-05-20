@@ -338,12 +338,6 @@ section a {
   margin-left: auto;
   margin-right: auto;
 }
-@media only screen and (max-width: 500px) {
-  .ads {
-    min-width: 100%;
-    height: 300px;
-  }
-}
 .secttext {
   padding-bottom: 50px;
 }
