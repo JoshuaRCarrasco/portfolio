@@ -334,6 +334,9 @@ section a {
 }
 .ads {
   width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .secttext {
   padding-bottom: 50px;
