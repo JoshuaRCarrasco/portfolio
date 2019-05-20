@@ -340,7 +340,7 @@ section a {
 }
 @media only screen and (max-width: 500px) {
   .ads {
-    
+    min-width: 100%;
   }
 }
 .secttext {
