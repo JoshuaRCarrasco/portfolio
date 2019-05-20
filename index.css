@@ -322,6 +322,20 @@ section a {
    height: 200px;
   }
 }
+#adone {}
+@media only screen and (max-width: 500px) {
+  #adone {
+    height: 300px;
+    width: 300px;
+  }
+}
+#adtwo {}
+@media only screen and (max-width: 500px) {
+  #adtwo {
+    height: 200px;
+    width: 300px;
+  }
+}
 .beerlabel {
   width: 803px;
   height: 482px;
