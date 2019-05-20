@@ -371,7 +371,7 @@ section a {
     line-height: 20px;
     width: 300px;
     min-width: 200px;
-    padding: 0px 0px 0px 0px;
+    padding: 0px 0px 20px 0px;
     overflow: hidden;
   }
 }
