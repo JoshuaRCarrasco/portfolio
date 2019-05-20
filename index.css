@@ -333,15 +333,13 @@ section a {
   }
 }
 .ads {
-  width: 75%;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 @media only screen and (max-width: 500px) {
   .ads {
-    width: 100%;
-    height: 100%;
+    
   }
 }
 .secttext {
