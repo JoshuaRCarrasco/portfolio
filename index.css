@@ -496,7 +496,7 @@ section a {
     font-size: 1.1em;
     line-height: 30px;
     min-width: 200px;
-    padding-bottom: 20px;
+    padding-bottom: 0px;
     overflow: hidden;
     margin: auto;
   }
