@@ -450,6 +450,11 @@ section a {
     padding-left: 300px;
   }
 }
+@media only screen and (min-width: 1900px) {
+  .about img {
+    padding-left: 600px;
+  }
+}
 @media only screen and (max-width: 800px) {
   .about img {
     position: static;
@@ -480,6 +485,11 @@ section a {
   line-height: 35px;
   text-align: left;
   margin-right: 200px;
+}
+@media only screen and (min-width: 1900px) {
+  .about p {
+    margin-right: 590px;
+  }
 }
 @media only screen and (min-width: 1400px) {
   .about p {
